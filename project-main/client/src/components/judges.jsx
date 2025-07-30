@@ -4,7 +4,7 @@ import React from 'react';
 import pratheesha from '../organizers/prathibha.png';
 import ritwik from '../organizers/rikky.png';
 import jeshma from '../organizers/jashitha.png';
-import manideep from '../organizers/CHMANIDEEP.png';
+import manideep from '../organizers/Sathwik.png';
 import gunadeep from '../organizers/gunadheep.png';
 import bhagyaraj from '../organizers/SHIVADITYARAJESHGANGONE.png';
 import rohit from '../organizers/rohit.png';
@@ -17,12 +17,12 @@ import tanish from '../organizers/San.png';
 const teamData = {
   coreMembers: [
     { name: 'V. Prathibha Reddy', role: 'Organiser', image: pratheesha },
-    { name: 'S.Rithwik Pranash Reddy', role: 'Co-Organiser', image: ritwik },
+    { name: 'S.Ritwik Prakash Reddy', role: 'Co-Organiser', image: ritwik },
   ],
   teamMembers: [
     { name: 'Jishitha Reddy Kesari', role: 'CR/PR Head', image: jeshma },
-    { name: 'Ch Manideep', role: 'Digital Marketer Head', image: manideep },
-    { name: 'M. Sai Eshwar', role: 'Markating Manager Head', image: rajeshwar },
+    { name: 'Sathwik Reddy', role: 'Digital Marketing Head', image: manideep },
+    { name: 'M. Sai Eshwar', role: 'Marketing Manager Head', image: rajeshwar },
     { name: 'SHIVADITYA RAJESH GANGONE ', role: 'Logistics Head', image: bhagyaraj },
     { name: 'P. Rohit', role: 'Tech Lead', image: rohit },
     { name: 'SRIKARI CHAKINAM ', role: 'Content Writer', image: spurthi },
