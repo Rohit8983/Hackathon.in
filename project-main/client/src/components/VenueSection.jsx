@@ -1,5 +1,5 @@
 import React from 'react';
-import venueLogo from '../assets/ramoji.png'; // Make sure this path is correct
+import venueLogo from '../assets/iarelogo.png'; // Make sure this path is correct
 
 const VenueSection = () => {
   return (
@@ -10,7 +10,7 @@ const VenueSection = () => {
 
       <div className="d-flex flex-column align-items-center justify-content-center">
         <a
-          href="https://www.google.com/maps/place/Ramoji+Film+City/@17.2542051,78.6822498,17z"
+          href="https://www.google.com/maps/place/Institute+of+Aeronautical+Engineering/@17.599927,78.4177253,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb8ecfe1af26dd:0x65666fa3c4a256d2!8m2!3d17.599927!4d78.4177253!16s%2Fg%2F11c3153d_b?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -32,10 +32,10 @@ const VenueSection = () => {
         </a>
 
         <h3 style={{ fontWeight: 'bold', fontSize: '1.8rem', color: '#d633ff' }}>
-          Ramoji Film City
+          Institute of Aeronautical Engineering - IARE
         </h3>
         <p style={{ fontSize: '16px', color: '#cccccc', maxWidth: '500px' }}>
-          One of the world’s largest integrated film cities, blending innovation, culture, and cinematic grandeur — an ideal destination for the ultimate tech showdown!
+          A cutting-edge campus where technology takes flight — the Veltrixis Pvt.ltd offers the perfect launchpad for innovation, collaboration, and the ultimate Hackathon experience!"
         </p>
       </div>
     </div>

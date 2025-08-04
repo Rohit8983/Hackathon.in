@@ -68,12 +68,12 @@ const Footer = () => {
           {/* Address */}
           <p style={{ display: 'flex', alignItems: 'start', color: '#ffffffcc', fontSize: '16px', lineHeight: '1.6' }}>
             <HiOutlineLocationMarker style={{ marginRight: '10px', color: '#d000ff', fontSize: '20px' }} />
-            Ramoji Film City, Hyderabad, Telangana - 501512
+            Institute of Aeronautical Engineering, Dundigal Road, Dundigal, Hyderabad, Telangana 500043
           </p>
 
           {/* Phone numbers */}
           <p style={{ color: '#ffffffcc', marginLeft: '30px', marginTop: '10px' }}>
-            📞 B.Sai Goutham (+91 98985-11259)
+            📞 Bootham (+91 93935-11259)
           </p>
           <p style={{ color: '#ffffffcc', marginLeft: '30px' }}>
             📞 Ch. Sai Raj (+91 79950-45146)
