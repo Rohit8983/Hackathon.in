@@ -6,7 +6,7 @@ import ritwik from '../organizers/rikky.png';
 import jeshma from '../organizers/jashitha.png';
 import manideep from '../organizers/Sathwik.png';
 import gunadeep from '../organizers/gunadheep.png';
-import bhagyaraj from '../organizers/rishitha.png';
+import bhagyaraj from '../organizers/head.png';
 import rohit from '../organizers/rohit.png';
 import spurthi from '../organizers/SRIKARICHAKINAM.png';
 import rajeshwar from '../organizers/eshwer.png';
@@ -23,7 +23,7 @@ const teamData = {
     { name: 'Jishitha Reddy Kesari', role: 'CR/PR Head', image: jeshma },
     { name: 'Sathwik Reddy', role: 'Digital Marketing Head', image: manideep },
     { name: 'M. Sai Eshwar', role: 'Marketing Manager Head', image: rajeshwar },
-    { name: 'Rishitha Kairoju ', role: 'Logistics Head', image: bhagyaraj },
+    { name: '', role: 'Logistics Head', image: bhagyaraj },
     { name: 'P. Rohit', role: 'Tech Lead', image: rohit },
     { name: 'SRIKARI CHAKINAM ', role: 'Content Writer', image: spurthi },
     { name: 'Sandeep', role: 'PR Coordinator & Media Team', image: sandeep },
